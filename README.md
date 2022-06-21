@@ -23,6 +23,9 @@ And don't forget to check out the links! They'll take you to some pretty neat ty
 
 [//]: # (autograding info start)
 ## Results
+> ⌛ Give it a minute. As long as you see the orange dot ![processing](https://raw.githubusercontent.com/DCI-EdTech/autograding-setup/main/assets/processing.svg) on top, CodeBuddy is still processing. Refresh this page to see it's current status.
+>
+> This is what CodeBuddy found when running your code. It is to show you what you have achieved and to give you hints on how to complete the exercise.
 
 
 ### UIB - Typography
@@ -37,9 +40,9 @@ And don't forget to check out the links! They'll take you to some pretty neat ty
 
 
 
-[🔬 Results Details](https://github.com/DigitalCareerInstitute/UIB-UI-UX-typography/actions)
+[🔬 Results Details](../../actions)
 [🐞 Tips on Debugging](https://github.com/DCI-EdTech/autograding-setup/wiki/How-to-work-with-CodeBuddy)
-[📢 Report Problem](https://docs.google.com/forms/d/e/1FAIpQLSfS8wPh6bCMTLF2wmjiE5_UhPiOEnubEwwPLN_M8zTCjx5qbg/viewform?usp=pp_url&entry.652569746=UIB-UI-UX-typography&entry.2115011968=https%3A%2F%2Fgithub.com%2FDigitalCareerInstitute%2FUIB-UI-UX-typography)
+[📢 Report Problem](https://docs.google.com/forms/d/e/1FAIpQLSfS8wPh6bCMTLF2wmjiE5_UhPiOEnubEwwPLN_M8zTCjx5qbg/viewform?usp=pp_url&entry.652569746=UIB-UI-UX-typography)
 
 
 [//]: # (autograding info end)
