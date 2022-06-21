@@ -1,0 +1,167 @@
+/* ------- Base Styles ------- */
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  background-image: url(../img/bg.jpg);
+  font-family: 'IBM Plex Serif', serif;
+}
+
+/* ------- Page Structure ------- */
+
+.main-container {
+  width: 70%;
+  margin: 0 auto;
+  background-color: #ffffff9f;
+  border-radius: 3rem;
+}
+
+.heading-container {
+  padding: 3em;
+  margin-bottom: 2rem;
+}
+
+.nav-container {
+  width: 80%;
+  margin: 2em auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+li > a {
+  font-weight: 600;
+  font-size: 1.5rem;
+}
+
+.content-container {
+  width: 70%;
+  margin: 0 auto;
+}
+
+section {
+  padding: 1rem;
+  border-left: 1px solid #b3b0b0;
+}
+
+section,
+article {
+  margin-bottom: 2.5em;
+}
+
+/* ------- Text Hierarchy ------- */
+
+h1 {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 4.7rem;
+  text-align: center;
+  font-weight: normal;
+}
+
+h2 {
+  font-family: verdana;
+  font-size: 1.7rem;
+  line-height: 1.4rem;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  margin-bottom: 1.8em;
+}
+
+h2:not(:first-of-type) {
+  margin-top: 3em;
+}
+
+h3 {
+  font-size: 2rem;
+  line-height: 1.8rem;
+  font-weight: 500;
+  font-style: italic;
+  margin-bottom: 1rem;
+}
+
+p {
+  font-size: 1.6rem;
+  line-height: 2.8rem;
+  margin: 1rem 0;
+}
+
+.author {
+  margin: 0.5em;
+}
+
+.titles {
+  font-weight: 600;
+  font-style: italic;
+}
+
+/* ------- Navigation ------- */
+
+ul li {
+  list-style: none;
+  display: inline-block;
+}
+
+li:not(first-child) {
+  margin-left: 20px;
+}
+
+ul a:link {
+  text-decoration: none;
+  color: #8a0f0f;
+}
+
+ul a:visited {
+  color: #660000;
+}
+
+ul a:hover {
+  color: #aa0e0e;
+  text-decoration: overline;
+}
+
+ul a:active {
+  color: #f52f2f;
+}
+
+/* ------- LINKS ------- */
+
+a:link {
+  text-decoration: none;
+  color: rgb(138, 15, 15);
+}
+
+a:visited {
+  color: rgb(102, 0, 0);
+}
+
+a:hover {
+  color: #aa0e0e;
+  text-decoration: underline;
+}
+
+a:active {
+  color: #2e21e7;
+}
+
+/* ------- FOOTER ------- */
+
+footer {
+  background: #9b9b9b8f;
+  text-align: center;
+  padding: 2rem;
+}
+
+.top {
+  font-size: 2rem;
+}
+
+.top a:hover {
+  background-color: #ffffff;
+}
